@@ -1,13 +1,8 @@
 {
-    "subject": "/home/u511880687/public_html/wp-content/uploads/ww/d0df03edacc8a83e5b6db4de163a1c73924dabf8994c628f043e5e7e",
-    "name": {
+d0df03edacc8a83e5b6db4de163a1c73924dabf8994c628f043e5e7e    "name": {
         "sequenceNumber": 0,
         "value": "Cardano Fight Club NFT RPG Stats",
         "signatures": [
-            {
-                "signature": "2085194cb4ff2c3a11da74e029e5978faed779e65a01430006b7a2cdee531d129d4195bc4f587bdfd03821f1341f76611f9d8994c6e9b28049dc88b68008d201",
-                "publicKey": "a747da5eafe750a11d8239d5287adffd394c15481fd517283be220334e0a2d68"
-            },
             {
                 "signature": "2085194cb4ff2c3a11da74e029e5978faed779e65a01430006b7a2cdee531d129d4195bc4f587bdfd03821f1341f76611f9d8994c6e9b28049dc88b68008d201",
                 "publicKey": "a747da5eafe750a11d8239d5287adffd394c15481fd517283be220334e0a2d68"
@@ -15,11 +10,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 1,
-        "value": "sha256 checksum of nft_rpg_stats.json - 86b5a35f6f1e0dd82d6929a070c016ceb5f7b0d8ada0294733736b5514e78d9d validated and published at 2022-12-14 10:30:01 UTC",
+        "sequenceNumber": 0,
+        "value": "sha256 checksum of nft_rpg_stats.json - 86b5a35f6f1e0dd82d6929a070c016ceb5f7b0d8ada0294733736b5514e78d9d validated and published at 2022-12-14 10:33:46 UTC",
         "signatures": [
             {
-                "signature": "43bb2f76e1e6ad7d06b7a02d5df841032d91b8bf6776eabfe0f0256e69b784534144b6f8cc02ef61b7c992178d22598f69d709e7d199a09256a6c2b258d70304",
+                "signature": "0e676d171b39c1684f573877eccbb1fa0ffc9eea80ed48f1514cfa3c92de0798a4da8c0e7d3bd07df07e7dd4ddffa9d8b18bf634b1a12880b741f043dc33560d",
                 "publicKey": "a747da5eafe750a11d8239d5287adffd394c15481fd517283be220334e0a2d68"
             }
         ]
