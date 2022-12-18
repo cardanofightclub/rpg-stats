@@ -12,10 +12,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "sha256 checksum of bosscatrocketclub.json - 01fa457e35dc4aa594e339c47c517258ec23330efffc152e2dc0504843945780 validated and published at 2022-12-18 00:30:02 UTC",
+        "value": "sha256 checksum of bosscatrocketclub.json - 01fa457e35dc4aa594e339c47c517258ec23330efffc152e2dc0504843945780 validated and published at 2022-12-18 01:00:01 UTC",
         "signatures": [
             {
-                "signature": "05fda9f0df067dc35b924797ef354b27c3d180aae8aeb70e492156b4bcc075a7c85079b1e9c84b377a229848b843baef2f7e0e7472706a9b740938a09a0f210d",
+                "signature": "52b673eb16fed3e94da2b30a1dd1b4380cc150f6229896104aa4a51bddd1563263a2717862b2423dcd6570ada8aa85821a7885bbb6aa48a474989bbe0f634d02",
                 "publicKey": "a747da5eafe750a11d8239d5287adffd394c15481fd517283be220334e0a2d68"
             }
         ]
