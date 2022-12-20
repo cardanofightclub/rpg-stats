@@ -1,4 +1,17 @@
 {
+    "CardanoFightClubLegendary1": {
+        "level": "10",
+        "experience": "0",
+        "attributes": {
+            "strength": "17",
+            "constitution": "15",
+            "intelligence": "14",
+            "charisma": "11",
+            "perception": "15",
+            "luck": "11",
+            "agility": "16"
+        }
+    },
     "CardanoFightClub1": {
         "level": "1",
         "experience": "1089",
