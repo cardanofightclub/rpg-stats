@@ -13,10 +13,10 @@
     "policy": "820182018282051a0471d9108200581c7ab203fddebc34d533060d41e6dbd5b433a823e64baa0261d7d2514b",
     "description": {
         "sequenceNumber": 0,
-        "value": "sha256 checksum of cardanofightclub.json - 4e9fd54f63ed3bc1c1fcebc786cf70cd601519e739a8a6d440ae410e1a9f7ec1 validated and published at 2022-12-21 18:30:01 UTC",
+        "value": "sha256 checksum of cardanofightclub.json - f337602a6b5e9d23a7e11e43e0d39e4a0b0dc09b6ad0fead6a3ffd95ee852d7e validated and published at 2022-12-21 19:00:01 UTC",
         "signatures": [
             {
-                "signature": "4e1203c4e1d636dbc5cc9e3519b941f101acdb98f6690f9f949d72a0bbc7b0a49f227c76aa52e8afa3529b99d4daf87f007523d997f6956f75499a96aaa69e07",
+                "signature": "0b699467a377e9649edaaa1a4702dfc8d9e210bcd44d1cbbab0f8f50b41e09c70a4638ec7986d85e45d72756f3f2f28b135e164be5d4237ebb94af817cc0cb0a",
                 "publicKey": "a747da5eafe750a11d8239d5287adffd394c15481fd517283be220334e0a2d68"
             }
         ]
