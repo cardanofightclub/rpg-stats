@@ -1,5 +1,24 @@
 {
     "subject": "d0df03edacc8a83e5b6db4de163a1c73924dabf8994c628f043e5e7e",
-    "name": null,
-    "description": null
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Cardano Fight Club NFT RPG Stats",
+        "signatures": [
+            {
+                "signature": "c7795bbb9d0b29c77c57aa75851b23cbf304906c1255c9a8f9ed379d4e762673ef35155963b5ea4097a8df190f7e198c488dba4ab3d6007ddd7ae9cb3fd18804",
+                "publicKey": "a747da5eafe750a11d8239d5287adffd394c15481fd517283be220334e0a2d68"
+            }
+        ]
+    },
+    "policy": "820182018282051a0471d9108200581c7ab203fddebc34d533060d41e6dbd5b433a823e64baa0261d7d2514b",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "sha256 checksum of cardanofightclub.json - 930d8f0fe2b08bf6cb0d06593426a9ac94a6e7e2526064d88305932b60e02b97 validated and published at 2022-12-21 13:58:46 UTC",
+        "signatures": [
+            {
+                "signature": "1a9c56e9e4d4deba5c128a55b658b7d793c6035ff52d28994709b94693d6e82b5c7c5118305c88b881539da20c0ad403d98c6ee2073ef977344678b3347b2407",
+                "publicKey": "a747da5eafe750a11d8239d5287adffd394c15481fd517283be220334e0a2d68"
+            }
+        ]
+    }
 }
