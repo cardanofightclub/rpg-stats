@@ -1137,7 +1137,7 @@
     },
     "BossCatRocketClub1500": {
         "level": "8",
-        "experience": "11034",
+        "experience": "11201",
         "attributes": {
             "strength": "26",
             "constitution": "15",
@@ -3906,7 +3906,7 @@
     },
     "BossCatRocketClub4747": {
         "level": "7",
-        "experience": "2134",
+        "experience": "2301",
         "attributes": {
             "strength": "14",
             "constitution": "22",
@@ -9745,6 +9745,19 @@
             "perception": "24",
             "luck": "25",
             "agility": "18"
+        }
+    },
+    "CardanoFightClubLegendary547": {
+        "level": "10",
+        "experience": "0",
+        "attributes": {
+            "strength": "15",
+            "constitution": "13",
+            "intelligence": "19",
+            "charisma": "27",
+            "perception": "12",
+            "luck": "25",
+            "agility": "23"
         }
     },
     "CardanoFightClubLegendary560": {
@@ -29398,7 +29411,7 @@
     },
     "CardanoFightClub3452": {
         "level": "9",
-        "experience": "2134",
+        "experience": "2301",
         "attributes": {
             "strength": "14",
             "constitution": "30",
@@ -39330,7 +39343,7 @@
     },
     "CardanoFightClub5270": {
         "level": "9",
-        "experience": "11034",
+        "experience": "11201",
         "attributes": {
             "strength": "26",
             "constitution": "20",
@@ -42372,7 +42385,7 @@
     },
     "CardanoFightClub5756": {
         "level": "9",
-        "experience": "11034",
+        "experience": "11201",
         "attributes": {
             "strength": "19",
             "constitution": "18",
@@ -42814,7 +42827,7 @@
     },
     "CardanoFightClub5894": {
         "level": "9",
-        "experience": "11034",
+        "experience": "11201",
         "attributes": {
             "strength": "26",
             "constitution": "14",
@@ -53318,7 +53331,7 @@
     },
     "CardanoFightClub8089": {
         "level": "9",
-        "experience": "11034",
+        "experience": "11201",
         "attributes": {
             "strength": "16",
             "constitution": "12",
@@ -56386,7 +56399,7 @@
     },
     "CardanoFightClub8710": {
         "level": "9",
-        "experience": "11034",
+        "experience": "11201",
         "attributes": {
             "strength": "26",
             "constitution": "29",
