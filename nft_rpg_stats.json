@@ -50521,6 +50521,19 @@
             "agility": "6"
         }
     },
+    "CardanoFightClub7280": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "10",
+            "constitution": "14",
+            "intelligence": "16",
+            "charisma": "15",
+            "perception": "1",
+            "luck": "16",
+            "agility": "10"
+        }
+    },
     "CardanoFightClub7288": {
         "level": "1",
         "experience": "2000",
@@ -64260,6 +64273,19 @@
             "perception": "19",
             "luck": "1",
             "agility": "2"
+        }
+    },
+    "CardanoFightClub9997": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "19",
+            "constitution": "11",
+            "intelligence": "12",
+            "charisma": "17",
+            "perception": "18",
+            "luck": "5",
+            "agility": "13"
         }
     }
 }]
