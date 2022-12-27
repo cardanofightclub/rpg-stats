@@ -916,7 +916,7 @@
     },
     "BossCatRocketClub1187": {
         "level": "1",
-        "experience": "26",
+        "experience": "29",
         "attributes": {
             "strength": "8",
             "constitution": "20",
@@ -2411,7 +2411,7 @@
     },
     "BossCatRocketClub3150": {
         "level": "1",
-        "experience": "26",
+        "experience": "29",
         "attributes": {
             "strength": "4",
             "constitution": "16",
@@ -9498,6 +9498,19 @@
             "perception": "16",
             "luck": "22",
             "agility": "30"
+        }
+    },
+    "CardanoFightClubLegendary328": {
+        "level": "10",
+        "experience": "3",
+        "attributes": {
+            "strength": "26",
+            "constitution": "25",
+            "intelligence": "29",
+            "charisma": "14",
+            "perception": "30",
+            "luck": "18",
+            "agility": "16"
         }
     },
     "CardanoFightClubLegendary329": {
@@ -25030,7 +25043,7 @@
     },
     "CardanoFightClub2584": {
         "level": "1",
-        "experience": "6",
+        "experience": "9",
         "attributes": {
             "strength": "12",
             "constitution": "2",
@@ -26720,7 +26733,7 @@
     },
     "CardanoFightClub2849": {
         "level": "1",
-        "experience": "26",
+        "experience": "29",
         "attributes": {
             "strength": "17",
             "constitution": "4",
@@ -35144,7 +35157,7 @@
     },
     "CardanoFightClub4486": {
         "level": "1",
-        "experience": "26",
+        "experience": "29",
         "attributes": {
             "strength": "5",
             "constitution": "2",
@@ -59363,7 +59376,7 @@
     },
     "CardanoFightClub9089": {
         "level": "1",
-        "experience": "26",
+        "experience": "29",
         "attributes": {
             "strength": "9",
             "constitution": "4",
@@ -62678,7 +62691,7 @@
     },
     "CardanoFightClub9764": {
         "level": "1",
-        "experience": "26",
+        "experience": "29",
         "attributes": {
             "strength": "1",
             "constitution": "9",
