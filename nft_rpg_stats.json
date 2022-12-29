@@ -1629,6 +1629,19 @@
             "agility": "1"
         }
     },
+    "BossCatRocketClub2050": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "20",
+            "constitution": "3",
+            "intelligence": "13",
+            "charisma": "7",
+            "perception": "5",
+            "luck": "2",
+            "agility": "2"
+        }
+    },
     "BossCatRocketClub2070": {
         "level": "2",
         "experience": "0",
@@ -7997,6 +8010,19 @@
             "perception": "11",
             "luck": "9",
             "agility": "15"
+        }
+    },
+    "BossCatRocketClub9360": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "8",
+            "constitution": "6",
+            "intelligence": "11",
+            "charisma": "18",
+            "perception": "17",
+            "luck": "7",
+            "agility": "9"
         }
     },
     "BossCatRocketClub9368": {
