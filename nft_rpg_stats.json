@@ -1434,6 +1434,19 @@
             "agility": "5"
         }
     },
+    "BossCatRocketClub1761": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "11",
+            "constitution": "20",
+            "intelligence": "9",
+            "charisma": "5",
+            "perception": "12",
+            "luck": "6",
+            "agility": "3"
+        }
+    },
     "BossCatRocketClub1771": {
         "level": "1",
         "experience": "51",
@@ -4179,7 +4192,7 @@
     },
     "BossCatRocketClub4945": {
         "level": "2",
-        "experience": "1968",
+        "experience": "2018",
         "attributes": {
             "strength": "7",
             "constitution": "7",
@@ -12046,6 +12059,19 @@
             "perception": "23",
             "luck": "22",
             "agility": "29"
+        }
+    },
+    "CardanoFightClubLegendary1252": {
+        "level": "10",
+        "experience": "0",
+        "attributes": {
+            "strength": "17",
+            "constitution": "17",
+            "intelligence": "30",
+            "charisma": "26",
+            "perception": "26",
+            "luck": "16",
+            "agility": "19"
         }
     },
     "CardanoFightClubLegendary1253": {
