@@ -12185,16 +12185,16 @@
         "project": "Cardano Fight Club",
         "heroes": [{
     "CardanoFightClub1": {
-        "level": "1",
-        "experience": "1320",
+        "level": "2",
+        "experience": "0",
         "attributes": {
-            "strength": "14",
-            "constitution": "3",
-            "intelligence": "13",
-            "charisma": "2",
-            "perception": "9",
+            "strength": "16",
+            "constitution": "4",
+            "intelligence": "14",
+            "charisma": "3",
+            "perception": "11",
             "luck": "18",
-            "agility": "4"
+            "agility": "7"
         }
     },
     "CardanoFightClub2": {
@@ -12952,16 +12952,16 @@
         }
     },
     "CardanoFightClub194": {
-        "level": "1",
-        "experience": "1337",
+        "level": "2",
+        "experience": "0",
         "attributes": {
-            "strength": "14",
-            "constitution": "15",
-            "intelligence": "18",
-            "charisma": "2",
-            "perception": "17",
+            "strength": "16",
+            "constitution": "16",
+            "intelligence": "19",
+            "charisma": "4",
+            "perception": "18",
             "luck": "8",
-            "agility": "3"
+            "agility": "6"
         }
     },
     "CardanoFightClub197": {
@@ -28711,9 +28711,9 @@
         "level": "1",
         "experience": "1337",
         "attributes": {
-            "strength": "1",
-            "constitution": "9",
-            "intelligence": "7",
+            "strength": "3",
+            "constitution": "10",
+            "intelligence": "8",
             "charisma": "10",
             "perception": "20",
             "luck": "15",
