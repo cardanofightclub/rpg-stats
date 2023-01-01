@@ -12199,7 +12199,7 @@
         "heroes": [{
     "CardanoFightClub1": {
         "level": "2",
-        "experience": "0",
+        "experience": "3000",
         "attributes": {
             "strength": "16",
             "constitution": "4",
@@ -12966,7 +12966,7 @@
     },
     "CardanoFightClub194": {
         "level": "2",
-        "experience": "0",
+        "experience": "3000",
         "attributes": {
             "strength": "16",
             "constitution": "16",
@@ -28721,15 +28721,15 @@
         }
     },
     "CardanoFightClub3143": {
-        "level": "1",
-        "experience": "1337",
+        "level": "2",
+        "experience": "0",
         "attributes": {
-            "strength": "3",
-            "constitution": "10",
-            "intelligence": "8",
-            "charisma": "10",
-            "perception": "20",
-            "luck": "15",
+            "strength": "5",
+            "constitution": "11",
+            "intelligence": "10",
+            "charisma": "12",
+            "perception": "22",
+            "luck": "16",
             "agility": "11"
         }
     },
