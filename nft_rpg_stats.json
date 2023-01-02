@@ -12263,16 +12263,16 @@
         "project": "Cardano Fight Club",
         "heroes": [{
     "CardanoFightClub1": {
-        "level": "2",
-        "experience": "3000",
+        "level": "3",
+        "experience": "0",
         "attributes": {
-            "strength": "16",
-            "constitution": "4",
-            "intelligence": "14",
-            "charisma": "3",
-            "perception": "11",
-            "luck": "18",
-            "agility": "7"
+            "strength": "17",
+            "constitution": "6",
+            "intelligence": "15",
+            "charisma": "5",
+            "perception": "13",
+            "luck": "19",
+            "agility": "8"
         }
     },
     "CardanoFightClub2": {
@@ -13030,16 +13030,16 @@
         }
     },
     "CardanoFightClub194": {
-        "level": "2",
-        "experience": "3000",
+        "level": "3",
+        "experience": "0",
         "attributes": {
-            "strength": "16",
-            "constitution": "16",
-            "intelligence": "19",
-            "charisma": "4",
-            "perception": "18",
+            "strength": "18",
+            "constitution": "18",
+            "intelligence": "20",
+            "charisma": "6",
+            "perception": "19",
             "luck": "8",
-            "agility": "6"
+            "agility": "8"
         }
     },
     "CardanoFightClub197": {
@@ -28787,7 +28787,7 @@
     },
     "CardanoFightClub3143": {
         "level": "2",
-        "experience": "0",
+        "experience": "3000",
         "attributes": {
             "strength": "5",
             "constitution": "11",
