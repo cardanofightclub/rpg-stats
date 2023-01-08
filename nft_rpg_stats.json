@@ -357,7 +357,7 @@
     },
     "BossCatRocketClub437": {
         "level": "8",
-        "experience": "21600",
+        "experience": "22017",
         "attributes": {
             "strength": "24",
             "constitution": "11",
@@ -1042,6 +1042,19 @@
             "perception": "17",
             "luck": "16",
             "agility": "14"
+        }
+    },
+    "BossCatRocketClub1352": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "14",
+            "constitution": "20",
+            "intelligence": "18",
+            "charisma": "16",
+            "perception": "15",
+            "luck": "6",
+            "agility": "6"
         }
     },
     "BossCatRocketClub1362": {
@@ -1798,6 +1811,32 @@
             "agility": "19"
         }
     },
+    "BossCatRocketClub2180": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "4",
+            "constitution": "7",
+            "intelligence": "10",
+            "charisma": "12",
+            "perception": "20",
+            "luck": "16",
+            "agility": "2"
+        }
+    },
+    "BossCatRocketClub2228": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "15",
+            "constitution": "9",
+            "intelligence": "11",
+            "charisma": "15",
+            "perception": "1",
+            "luck": "10",
+            "agility": "11"
+        }
+    },
     "BossCatRocketClub2230": {
         "level": "1",
         "experience": "0",
@@ -1939,6 +1978,19 @@
             "perception": "11",
             "luck": "17",
             "agility": "13"
+        }
+    },
+    "BossCatRocketClub2411": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "19",
+            "constitution": "5",
+            "intelligence": "19",
+            "charisma": "16",
+            "perception": "5",
+            "luck": "16",
+            "agility": "6"
         }
     },
     "BossCatRocketClub2425": {
@@ -2474,6 +2526,19 @@
             "agility": "8"
         }
     },
+    "BossCatRocketClub3164": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "19",
+            "constitution": "19",
+            "intelligence": "20",
+            "charisma": "17",
+            "perception": "3",
+            "luck": "18",
+            "agility": "5"
+        }
+    },
     "BossCatRocketClub3165": {
         "level": "8",
         "experience": "5084",
@@ -2823,6 +2888,19 @@
             "perception": "14",
             "luck": "19",
             "agility": "5"
+        }
+    },
+    "BossCatRocketClub3391": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "16",
+            "constitution": "18",
+            "intelligence": "1",
+            "charisma": "19",
+            "perception": "4",
+            "luck": "9",
+            "agility": "4"
         }
     },
     "BossCatRocketClub3415": {
@@ -4255,6 +4333,19 @@
             "agility": "9"
         }
     },
+    "BossCatRocketClub4965": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "16",
+            "constitution": "5",
+            "intelligence": "6",
+            "charisma": "1",
+            "perception": "2",
+            "luck": "20",
+            "agility": "4"
+        }
+    },
     "BossCatRocketClub4983": {
         "level": "1",
         "experience": "303",
@@ -4266,6 +4357,19 @@
             "perception": "5",
             "luck": "7",
             "agility": "1"
+        }
+    },
+    "BossCatRocketClub4985": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "20",
+            "constitution": "18",
+            "intelligence": "2",
+            "charisma": "4",
+            "perception": "3",
+            "luck": "11",
+            "agility": "14"
         }
     },
     "BossCatRocketClub5016": {
@@ -4359,6 +4463,19 @@
             "agility": "12"
         }
     },
+    "BossCatRocketClub5135": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "19",
+            "constitution": "20",
+            "intelligence": "17",
+            "charisma": "14",
+            "perception": "18",
+            "luck": "17",
+            "agility": "10"
+        }
+    },
     "BossCatRocketClub5140": {
         "level": "3",
         "experience": "2235",
@@ -4396,6 +4513,19 @@
             "perception": "18",
             "luck": "20",
             "agility": "16"
+        }
+    },
+    "BossCatRocketClub5153": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "16",
+            "constitution": "17",
+            "intelligence": "4",
+            "charisma": "18",
+            "perception": "8",
+            "luck": "10",
+            "agility": "15"
         }
     },
     "BossCatRocketClub5163": {
@@ -4515,6 +4645,19 @@
             "agility": "12"
         }
     },
+    "BossCatRocketClub5279": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "18",
+            "constitution": "5",
+            "intelligence": "3",
+            "charisma": "18",
+            "perception": "13",
+            "luck": "3",
+            "agility": "18"
+        }
+    },
     "BossCatRocketClub5301": {
         "level": "1",
         "experience": "0",
@@ -4530,7 +4673,7 @@
     },
     "BossCatRocketClub5310": {
         "level": "2",
-        "experience": "0",
+        "experience": "417",
         "attributes": {
             "strength": "7",
             "constitution": "20",
@@ -4929,6 +5072,19 @@
             "perception": "4",
             "luck": "9",
             "agility": "1"
+        }
+    },
+    "BossCatRocketClub5881": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "11",
+            "constitution": "1",
+            "intelligence": "5",
+            "charisma": "17",
+            "perception": "9",
+            "luck": "15",
+            "agility": "2"
         }
     },
     "BossCatRocketClub5905": {
@@ -5828,6 +5984,19 @@
             "agility": "15"
         }
     },
+    "BossCatRocketClub6994": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "6",
+            "constitution": "17",
+            "intelligence": "5",
+            "charisma": "20",
+            "perception": "20",
+            "luck": "3",
+            "agility": "15"
+        }
+    },
     "BossCatRocketClub7000": {
         "level": "2",
         "experience": "0",
@@ -5852,6 +6021,19 @@
             "perception": "2",
             "luck": "7",
             "agility": "9"
+        }
+    },
+    "BossCatRocketClub7020": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "12",
+            "constitution": "13",
+            "intelligence": "19",
+            "charisma": "17",
+            "perception": "5",
+            "luck": "20",
+            "agility": "17"
         }
     },
     "BossCatRocketClub7045": {
@@ -6634,6 +6816,19 @@
             "agility": "10"
         }
     },
+    "BossCatRocketClub7733": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "10",
+            "constitution": "14",
+            "intelligence": "11",
+            "charisma": "6",
+            "perception": "8",
+            "luck": "4",
+            "agility": "14"
+        }
+    },
     "BossCatRocketClub7743": {
         "level": "1",
         "experience": "0",
@@ -6839,6 +7034,19 @@
             "charisma": "13",
             "perception": "6",
             "luck": "10",
+            "agility": "7"
+        }
+    },
+    "BossCatRocketClub7975": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "6",
+            "constitution": "10",
+            "intelligence": "16",
+            "charisma": "15",
+            "perception": "3",
+            "luck": "11",
             "agility": "7"
         }
     },
@@ -7115,6 +7323,19 @@
             "agility": "4"
         }
     },
+    "BossCatRocketClub8265": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "18",
+            "constitution": "1",
+            "intelligence": "13",
+            "charisma": "5",
+            "perception": "7",
+            "luck": "3",
+            "agility": "5"
+        }
+    },
     "BossCatRocketClub8267": {
         "level": "3",
         "experience": "4010",
@@ -7204,6 +7425,19 @@
             "perception": "18",
             "luck": "11",
             "agility": "4"
+        }
+    },
+    "BossCatRocketClub8392": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "13",
+            "constitution": "12",
+            "intelligence": "13",
+            "charisma": "2",
+            "perception": "1",
+            "luck": "1",
+            "agility": "20"
         }
     },
     "BossCatRocketClub8400": {
@@ -11840,6 +12074,19 @@
             "agility": "12"
         }
     },
+    "CardanoFightClubLegendary910": {
+        "level": "10",
+        "experience": "0",
+        "attributes": {
+            "strength": "26",
+            "constitution": "15",
+            "intelligence": "23",
+            "charisma": "13",
+            "perception": "13",
+            "luck": "25",
+            "agility": "20"
+        }
+    },
     "CardanoFightClubLegendary911": {
         "level": "10",
         "experience": "136",
@@ -13967,7 +14214,7 @@
     },
     "CardanoFightClub323": {
         "level": "9",
-        "experience": "17900",
+        "experience": "18317",
         "attributes": {
             "strength": "27",
             "constitution": "27",
@@ -23756,7 +24003,7 @@
     },
     "CardanoFightClub2103": {
         "level": "9",
-        "experience": "17900",
+        "experience": "18317",
         "attributes": {
             "strength": "20",
             "constitution": "20",
@@ -32284,7 +32531,7 @@
     },
     "CardanoFightClub3750": {
         "level": "9",
-        "experience": "17900",
+        "experience": "18317",
         "attributes": {
             "strength": "13",
             "constitution": "23",
@@ -33870,7 +34117,7 @@
     },
     "CardanoFightClub4001": {
         "level": "9",
-        "experience": "17900",
+        "experience": "18317",
         "attributes": {
             "strength": "20",
             "constitution": "26",
@@ -34390,7 +34637,7 @@
     },
     "CardanoFightClub4054": {
         "level": "9",
-        "experience": "17900",
+        "experience": "18317",
         "attributes": {
             "strength": "32",
             "constitution": "27",
@@ -37328,7 +37575,7 @@
     },
     "CardanoFightClub4640": {
         "level": "9",
-        "experience": "17900",
+        "experience": "18317",
         "attributes": {
             "strength": "24",
             "constitution": "22",
@@ -41696,7 +41943,7 @@
     },
     "CardanoFightClub5341": {
         "level": "9",
-        "experience": "17900",
+        "experience": "18317",
         "attributes": {
             "strength": "14",
             "constitution": "21",
@@ -55996,7 +56243,7 @@
     },
     "CardanoFightClub8210": {
         "level": "9",
-        "experience": "17900",
+        "experience": "18317",
         "attributes": {
             "strength": "25",
             "constitution": "16",
@@ -63484,7 +63731,7 @@
     },
     "CardanoFightClub9719": {
         "level": "9",
-        "experience": "17900",
+        "experience": "18317",
         "attributes": {
             "strength": "18",
             "constitution": "30",
@@ -64433,7 +64680,7 @@
     },
     "CardanoFightClub9840": {
         "level": "9",
-        "experience": "17900",
+        "experience": "18317",
         "attributes": {
             "strength": "14",
             "constitution": "17",
