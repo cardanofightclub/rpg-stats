@@ -4,6 +4,19 @@
         "policy": "c364930bd612f42e14d156e1c5410511e77f64cab8f2367a9df544d1",
         "project": "Boss Cat Rocket Club",
         "heroes": [{
+    "BossCatRocketClub22": {
+        "level": "1",
+        "experience": "0",
+        "attributes": {
+            "strength": "18",
+            "constitution": "9",
+            "intelligence": "14",
+            "charisma": "11",
+            "perception": "18",
+            "luck": "4",
+            "agility": "17"
+        }
+    },
     "BossCatRocketClub33": {
         "level": "1",
         "experience": "45",
@@ -10527,6 +10540,19 @@
             "agility": "24"
         }
     },
+    "CardanoFightClubLegendary443": {
+        "level": "10",
+        "experience": "0",
+        "attributes": {
+            "strength": "17",
+            "constitution": "12",
+            "intelligence": "26",
+            "charisma": "26",
+            "perception": "24",
+            "luck": "14",
+            "agility": "25"
+        }
+    },
     "CardanoFightClubLegendary478": {
         "level": "10",
         "experience": "12",
@@ -11045,6 +11071,19 @@
             "perception": "20",
             "luck": "26",
             "agility": "14"
+        }
+    },
+    "CardanoFightClubLegendary574": {
+        "level": "10",
+        "experience": "0",
+        "attributes": {
+            "strength": "25",
+            "constitution": "26",
+            "intelligence": "14",
+            "charisma": "17",
+            "perception": "15",
+            "luck": "20",
+            "agility": "19"
         }
     },
     "CardanoFightClubLegendary584": {
