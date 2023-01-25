@@ -13751,6 +13751,19 @@
             "agility": "39"
         }
     },
+    "CardanoFightClubLegendary2338": {
+        "level": "20",
+        "experience": "106",
+        "attributes": {
+            "strength": "40",
+            "constitution": "32",
+            "intelligence": "26",
+            "charisma": "36",
+            "perception": "27",
+            "luck": "34",
+            "agility": "26"
+        }
+    },
     "CardanoFightClubLegendary2384": {
         "level": "20",
         "experience": "0",
@@ -14598,7 +14611,7 @@
     },
     "CardanoFightClubLegendary4535": {
         "level": "30",
-        "experience": "100",
+        "experience": "206",
         "attributes": {
             "strength": "50",
             "constitution": "32",
@@ -27409,7 +27422,7 @@
     },
     "CardanoFightClub2229": {
         "level": "1",
-        "experience": "2079",
+        "experience": "2185",
         "attributes": {
             "strength": "3",
             "constitution": "18",
@@ -28826,7 +28839,7 @@
     },
     "CardanoFightClub2585": {
         "level": "1",
-        "experience": "2029",
+        "experience": "2135",
         "attributes": {
             "strength": "11",
             "constitution": "4",
@@ -29723,7 +29736,7 @@
     },
     "CardanoFightClub2738": {
         "level": "1",
-        "experience": "2029",
+        "experience": "2135",
         "attributes": {
             "strength": "4",
             "constitution": "13",
@@ -38979,7 +38992,7 @@
     },
     "CardanoFightClub4435": {
         "level": "1",
-        "experience": "2079",
+        "experience": "2185",
         "attributes": {
             "strength": "4",
             "constitution": "1",
@@ -60455,7 +60468,7 @@
     },
     "CardanoFightClub8536": {
         "level": "1",
-        "experience": "2029",
+        "experience": "2135",
         "attributes": {
             "strength": "18",
             "constitution": "18",
@@ -67709,7 +67722,7 @@
     },
     "CardanoFightClub9874": {
         "level": "1",
-        "experience": "2079",
+        "experience": "2185",
         "attributes": {
             "strength": "17",
             "constitution": "15",
