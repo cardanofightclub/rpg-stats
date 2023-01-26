@@ -122,16 +122,16 @@
         }
     },
     "BossCatRocketClub165": {
-        "level": "23",
+        "level": "24",
         "experience": "0",
         "attributes": {
-            "strength": "41",
-            "constitution": "35",
-            "intelligence": "42",
-            "charisma": "48",
-            "perception": "34",
-            "luck": "37",
-            "agility": "43"
+            "strength": "42",
+            "constitution": "37",
+            "intelligence": "44",
+            "charisma": "49",
+            "perception": "35",
+            "luck": "38",
+            "agility": "45"
         }
     },
     "BossCatRocketClub210": {
@@ -148,16 +148,16 @@
         }
     },
     "BossCatRocketClub215": {
-        "level": "24",
+        "level": "25",
         "experience": "0",
         "attributes": {
-            "strength": "38",
-            "constitution": "52",
-            "intelligence": "54",
-            "charisma": "54",
-            "perception": "34",
-            "luck": "35",
-            "agility": "53"
+            "strength": "39",
+            "constitution": "53",
+            "intelligence": "55",
+            "charisma": "56",
+            "perception": "35",
+            "luck": "37",
+            "agility": "55"
         }
     },
     "BossCatRocketClub218": {
@@ -1098,7 +1098,7 @@
     },
     "BossCatRocketClub1386": {
         "level": "41",
-        "experience": "0",
+        "experience": "106300",
         "attributes": {
             "strength": "82",
             "constitution": "71",
@@ -1163,7 +1163,7 @@
     },
     "BossCatRocketClub1452": {
         "level": "41",
-        "experience": "0",
+        "experience": "106300",
         "attributes": {
             "strength": "80",
             "constitution": "80",
@@ -2073,7 +2073,7 @@
     },
     "BossCatRocketClub2565": {
         "level": "41",
-        "experience": "0",
+        "experience": "106300",
         "attributes": {
             "strength": "74",
             "constitution": "66",
@@ -2424,7 +2424,7 @@
     },
     "BossCatRocketClub3011": {
         "level": "41",
-        "experience": "0",
+        "experience": "106300",
         "attributes": {
             "strength": "85",
             "constitution": "73",
@@ -3100,7 +3100,7 @@
     },
     "BossCatRocketClub3606": {
         "level": "41",
-        "experience": "0",
+        "experience": "106300",
         "attributes": {
             "strength": "80",
             "constitution": "61",
@@ -3607,7 +3607,7 @@
     },
     "BossCatRocketClub4118": {
         "level": "41",
-        "experience": "0",
+        "experience": "106300",
         "attributes": {
             "strength": "64",
             "constitution": "71",
@@ -4192,7 +4192,7 @@
     },
     "BossCatRocketClub4854": {
         "level": "41",
-        "experience": "0",
+        "experience": "106300",
         "attributes": {
             "strength": "65",
             "constitution": "68",
@@ -4842,7 +4842,7 @@
     },
     "BossCatRocketClub5484": {
         "level": "41",
-        "experience": "0",
+        "experience": "106300",
         "attributes": {
             "strength": "77",
             "constitution": "76",
@@ -4933,7 +4933,7 @@
     },
     "BossCatRocketClub5618": {
         "level": "41",
-        "experience": "0",
+        "experience": "106300",
         "attributes": {
             "strength": "78",
             "constitution": "61",
@@ -5283,15 +5283,15 @@
         }
     },
     "BossCatRocketClub6100": {
-        "level": "40",
-        "experience": "115200",
+        "level": "41",
+        "experience": "0",
         "attributes": {
-            "strength": "63",
-            "constitution": "66",
-            "intelligence": "72",
-            "charisma": "68",
-            "perception": "61",
-            "luck": "46",
+            "strength": "64",
+            "constitution": "68",
+            "intelligence": "73",
+            "charisma": "70",
+            "perception": "63",
+            "luck": "48",
             "agility": "90"
         }
     },
@@ -6597,7 +6597,7 @@
     },
     "BossCatRocketClub7535": {
         "level": "41",
-        "experience": "0",
+        "experience": "106300",
         "attributes": {
             "strength": "74",
             "constitution": "78",
@@ -7181,16 +7181,16 @@
         }
     },
     "BossCatRocketClub8090": {
-        "level": "40",
-        "experience": "106400",
+        "level": "41",
+        "experience": "0",
         "attributes": {
-            "strength": "75",
-            "constitution": "77",
-            "intelligence": "76",
-            "charisma": "59",
-            "perception": "65",
+            "strength": "76",
+            "constitution": "79",
+            "intelligence": "77",
+            "charisma": "61",
+            "perception": "66",
             "luck": "45",
-            "agility": "62"
+            "agility": "65"
         }
     },
     "BossCatRocketClub8095": {
@@ -10567,16 +10567,16 @@
         }
     },
     "CardanoFightClubLegendary436": {
-        "level": "30",
+        "level": "31",
         "experience": "0",
         "attributes": {
-            "strength": "51",
-            "constitution": "44",
-            "intelligence": "44",
-            "charisma": "54",
-            "perception": "46",
-            "luck": "51",
-            "agility": "68"
+            "strength": "52",
+            "constitution": "45",
+            "intelligence": "45",
+            "charisma": "55",
+            "perception": "48",
+            "luck": "52",
+            "agility": "71"
         }
     },
     "CardanoFightClubLegendary437": {
@@ -15488,7 +15488,7 @@
     },
     "CardanoFightClub76": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "44",
             "constitution": "36",
@@ -15501,7 +15501,7 @@
     },
     "CardanoFightClub87": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "38",
             "constitution": "31",
@@ -15618,7 +15618,7 @@
     },
     "CardanoFightClub116": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "47",
             "constitution": "48",
@@ -15644,7 +15644,7 @@
     },
     "CardanoFightClub118": {
         "level": "20",
-        "experience": "27200",
+        "experience": "41000",
         "attributes": {
             "strength": "39",
             "constitution": "30",
@@ -15917,7 +15917,7 @@
     },
     "CardanoFightClub192": {
         "level": "20",
-        "experience": "13700",
+        "experience": "27200",
         "attributes": {
             "strength": "43",
             "constitution": "45",
@@ -18608,7 +18608,7 @@
     },
     "CardanoFightClub682": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "32",
             "constitution": "36",
@@ -19076,7 +19076,7 @@
     },
     "CardanoFightClub743": {
         "level": "48",
-        "experience": "0",
+        "experience": "115200",
         "attributes": {
             "strength": "86",
             "constitution": "81",
@@ -19570,7 +19570,7 @@
     },
     "CardanoFightClub875": {
         "level": "20",
-        "experience": "27600",
+        "experience": "41400",
         "attributes": {
             "strength": "45",
             "constitution": "48",
@@ -20311,7 +20311,7 @@
     },
     "CardanoFightClub1033": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "44",
             "constitution": "32",
@@ -20324,7 +20324,7 @@
     },
     "CardanoFightClub1034": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "31",
             "constitution": "49",
@@ -20337,7 +20337,7 @@
     },
     "CardanoFightClub1035": {
         "level": "20",
-        "experience": "27600",
+        "experience": "41400",
         "attributes": {
             "strength": "34",
             "constitution": "41",
@@ -20350,7 +20350,7 @@
     },
     "CardanoFightClub1036": {
         "level": "20",
-        "experience": "27500",
+        "experience": "41300",
         "attributes": {
             "strength": "48",
             "constitution": "40",
@@ -20363,7 +20363,7 @@
     },
     "CardanoFightClub1037": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "33",
             "constitution": "50",
@@ -20376,7 +20376,7 @@
     },
     "CardanoFightClub1040": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41500",
         "attributes": {
             "strength": "34",
             "constitution": "38",
@@ -20402,7 +20402,7 @@
     },
     "CardanoFightClub1042": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "27",
             "constitution": "44",
@@ -21013,7 +21013,7 @@
     },
     "CardanoFightClub1153": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "47",
             "constitution": "31",
@@ -21065,7 +21065,7 @@
     },
     "CardanoFightClub1158": {
         "level": "48",
-        "experience": "0",
+        "experience": "115200",
         "attributes": {
             "strength": "80",
             "constitution": "85",
@@ -23860,7 +23860,7 @@
     },
     "CardanoFightClub1553": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "46",
             "constitution": "49",
@@ -23873,7 +23873,7 @@
     },
     "CardanoFightClub1554": {
         "level": "48",
-        "experience": "0",
+        "experience": "115200",
         "attributes": {
             "strength": "93",
             "constitution": "88",
@@ -24224,7 +24224,7 @@
     },
     "CardanoFightClub1722": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27400",
         "attributes": {
             "strength": "34",
             "constitution": "47",
@@ -24237,7 +24237,7 @@
     },
     "CardanoFightClub1723": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "37",
             "constitution": "29",
@@ -24249,16 +24249,16 @@
         }
     },
     "CardanoFightClub1724": {
-        "level": "62",
-        "experience": "2774",
+        "level": "63",
+        "experience": "0",
         "attributes": {
-            "strength": "98",
-            "constitution": "115",
-            "intelligence": "115",
-            "charisma": "113",
-            "perception": "107",
-            "luck": "74",
-            "agility": "98"
+            "strength": "100",
+            "constitution": "116",
+            "intelligence": "117",
+            "charisma": "115",
+            "perception": "108",
+            "luck": "75",
+            "agility": "99"
         }
     },
     "CardanoFightClub1725": {
@@ -24276,7 +24276,7 @@
     },
     "CardanoFightClub1726": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "42",
             "constitution": "45",
@@ -24302,7 +24302,7 @@
     },
     "CardanoFightClub1728": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41300",
         "attributes": {
             "strength": "37",
             "constitution": "36",
@@ -24315,7 +24315,7 @@
     },
     "CardanoFightClub1729": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27600",
         "attributes": {
             "strength": "32",
             "constitution": "33",
@@ -24965,7 +24965,7 @@
     },
     "CardanoFightClub1809": {
         "level": "48",
-        "experience": "0",
+        "experience": "115200",
         "attributes": {
             "strength": "75",
             "constitution": "91",
@@ -25225,7 +25225,7 @@
     },
     "CardanoFightClub1848": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "27",
             "constitution": "34",
@@ -26031,7 +26031,7 @@
     },
     "CardanoFightClub1957": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27400",
         "attributes": {
             "strength": "41",
             "constitution": "46",
@@ -26278,7 +26278,7 @@
     },
     "CardanoFightClub2033": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "41",
             "constitution": "45",
@@ -27539,7 +27539,7 @@
     },
     "CardanoFightClub2248": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "29",
             "constitution": "36",
@@ -29151,7 +29151,7 @@
     },
     "CardanoFightClub2623": {
         "level": "48",
-        "experience": "0",
+        "experience": "115200",
         "attributes": {
             "strength": "74",
             "constitution": "85",
@@ -29177,7 +29177,7 @@
     },
     "CardanoFightClub2625": {
         "level": "20",
-        "experience": "13600",
+        "experience": "27100",
         "attributes": {
             "strength": "35",
             "constitution": "42",
@@ -29190,7 +29190,7 @@
     },
     "CardanoFightClub2627": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "43",
             "constitution": "36",
@@ -29203,7 +29203,7 @@
     },
     "CardanoFightClub2628": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "32",
             "constitution": "40",
@@ -30113,7 +30113,7 @@
     },
     "CardanoFightClub2778": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27400",
         "attributes": {
             "strength": "37",
             "constitution": "39",
@@ -30139,7 +30139,7 @@
     },
     "CardanoFightClub2780": {
         "level": "48",
-        "experience": "0",
+        "experience": "115200",
         "attributes": {
             "strength": "92",
             "constitution": "87",
@@ -30672,7 +30672,7 @@
     },
     "CardanoFightClub2854": {
         "level": "48",
-        "experience": "0",
+        "experience": "115200",
         "attributes": {
             "strength": "83",
             "constitution": "73",
@@ -31101,7 +31101,7 @@
     },
     "CardanoFightClub2911": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "30",
             "constitution": "34",
@@ -31114,7 +31114,7 @@
     },
     "CardanoFightClub2912": {
         "level": "20",
-        "experience": "27500",
+        "experience": "41300",
         "attributes": {
             "strength": "51",
             "constitution": "43",
@@ -31140,7 +31140,7 @@
     },
     "CardanoFightClub2914": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27600",
         "attributes": {
             "strength": "26",
             "constitution": "35",
@@ -31153,7 +31153,7 @@
     },
     "CardanoFightClub2915": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41300",
         "attributes": {
             "strength": "35",
             "constitution": "36",
@@ -31165,16 +31165,16 @@
         }
     },
     "CardanoFightClub2916": {
-        "level": "62",
-        "experience": "2774",
+        "level": "63",
+        "experience": "0",
         "attributes": {
-            "strength": "108",
-            "constitution": "106",
-            "intelligence": "115",
-            "charisma": "110",
-            "perception": "109",
-            "luck": "82",
-            "agility": "89"
+            "strength": "109",
+            "constitution": "107",
+            "intelligence": "116",
+            "charisma": "112",
+            "perception": "111",
+            "luck": "84",
+            "agility": "90"
         }
     },
     "CardanoFightClub2917": {
@@ -31192,7 +31192,7 @@
     },
     "CardanoFightClub2918": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "40",
             "constitution": "47",
@@ -31205,7 +31205,7 @@
     },
     "CardanoFightClub2919": {
         "level": "20",
-        "experience": "27300",
+        "experience": "40800",
         "attributes": {
             "strength": "30",
             "constitution": "31",
@@ -31218,7 +31218,7 @@
     },
     "CardanoFightClub2920": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27600",
         "attributes": {
             "strength": "39",
             "constitution": "34",
@@ -32427,7 +32427,7 @@
     },
     "CardanoFightClub3182": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "36",
             "constitution": "48",
@@ -32440,7 +32440,7 @@
     },
     "CardanoFightClub3183": {
         "level": "20",
-        "experience": "27600",
+        "experience": "41300",
         "attributes": {
             "strength": "37",
             "constitution": "42",
@@ -32453,7 +32453,7 @@
     },
     "CardanoFightClub3184": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "38",
             "constitution": "37",
@@ -32466,7 +32466,7 @@
     },
     "CardanoFightClub3185": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "34",
             "constitution": "37",
@@ -32492,7 +32492,7 @@
     },
     "CardanoFightClub3187": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27600",
         "attributes": {
             "strength": "40",
             "constitution": "43",
@@ -32505,7 +32505,7 @@
     },
     "CardanoFightClub3188": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27600",
         "attributes": {
             "strength": "39",
             "constitution": "43",
@@ -32531,7 +32531,7 @@
     },
     "CardanoFightClub3190": {
         "level": "20",
-        "experience": "27600",
+        "experience": "41400",
         "attributes": {
             "strength": "40",
             "constitution": "34",
@@ -32544,7 +32544,7 @@
     },
     "CardanoFightClub3191": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "28",
             "constitution": "34",
@@ -33090,7 +33090,7 @@
     },
     "CardanoFightClub3287": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "33",
             "constitution": "37",
@@ -34923,7 +34923,7 @@
     },
     "CardanoFightClub3680": {
         "level": "20",
-        "experience": "27100",
+        "experience": "40900",
         "attributes": {
             "strength": "37",
             "constitution": "38",
@@ -37159,7 +37159,7 @@
     },
     "CardanoFightClub4043": {
         "level": "48",
-        "experience": "0",
+        "experience": "115200",
         "attributes": {
             "strength": "87",
             "constitution": "95",
@@ -41215,7 +41215,7 @@
     },
     "CardanoFightClub4823": {
         "level": "48",
-        "experience": "0",
+        "experience": "115200",
         "attributes": {
             "strength": "87",
             "constitution": "83",
@@ -41644,7 +41644,7 @@
     },
     "CardanoFightClub4885": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "35",
             "constitution": "33",
@@ -41917,7 +41917,7 @@
     },
     "CardanoFightClub4939": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "31",
             "constitution": "48",
@@ -44062,7 +44062,7 @@
     },
     "CardanoFightClub5274": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41200",
         "attributes": {
             "strength": "38",
             "constitution": "50",
@@ -44114,7 +44114,7 @@
     },
     "CardanoFightClub5279": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "34",
             "constitution": "47",
@@ -45284,7 +45284,7 @@
     },
     "CardanoFightClub5468": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "30",
             "constitution": "32",
@@ -48352,7 +48352,7 @@
     },
     "CardanoFightClub6072": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "36",
             "constitution": "42",
@@ -48365,7 +48365,7 @@
     },
     "CardanoFightClub6073": {
         "level": "20",
-        "experience": "13600",
+        "experience": "27400",
         "attributes": {
             "strength": "33",
             "constitution": "33",
@@ -49288,7 +49288,7 @@
     },
     "CardanoFightClub6228": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "30",
             "constitution": "45",
@@ -49301,7 +49301,7 @@
     },
     "CardanoFightClub6229": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "40",
             "constitution": "46",
@@ -49314,7 +49314,7 @@
     },
     "CardanoFightClub6230": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "38",
             "constitution": "42",
@@ -49327,7 +49327,7 @@
     },
     "CardanoFightClub6231": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "32",
             "constitution": "45",
@@ -49340,7 +49340,7 @@
     },
     "CardanoFightClub6232": {
         "level": "20",
-        "experience": "27500",
+        "experience": "41200",
         "attributes": {
             "strength": "47",
             "constitution": "44",
@@ -49353,7 +49353,7 @@
     },
     "CardanoFightClub6233": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41300",
         "attributes": {
             "strength": "29",
             "constitution": "46",
@@ -49366,7 +49366,7 @@
     },
     "CardanoFightClub6234": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "43",
             "constitution": "47",
@@ -49379,7 +49379,7 @@
     },
     "CardanoFightClub6235": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "44",
             "constitution": "29",
@@ -49392,7 +49392,7 @@
     },
     "CardanoFightClub6236": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41500",
         "attributes": {
             "strength": "44",
             "constitution": "32",
@@ -49405,7 +49405,7 @@
     },
     "CardanoFightClub6237": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "30",
             "constitution": "34",
@@ -49639,7 +49639,7 @@
     },
     "CardanoFightClub6266": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "43",
             "constitution": "33",
@@ -49652,7 +49652,7 @@
     },
     "CardanoFightClub6267": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27300",
         "attributes": {
             "strength": "47",
             "constitution": "37",
@@ -49665,7 +49665,7 @@
     },
     "CardanoFightClub6268": {
         "level": "20",
-        "experience": "27200",
+        "experience": "41000",
         "attributes": {
             "strength": "40",
             "constitution": "37",
@@ -49678,7 +49678,7 @@
     },
     "CardanoFightClub6269": {
         "level": "20",
-        "experience": "27500",
+        "experience": "41300",
         "attributes": {
             "strength": "33",
             "constitution": "36",
@@ -49690,21 +49690,21 @@
         }
     },
     "CardanoFightClub6270": {
-        "level": "62",
-        "experience": "2774",
+        "level": "63",
+        "experience": "0",
         "attributes": {
-            "strength": "109",
-            "constitution": "106",
-            "intelligence": "118",
-            "charisma": "105",
-            "perception": "107",
+            "strength": "111",
+            "constitution": "107",
+            "intelligence": "119",
+            "charisma": "106",
+            "perception": "109",
             "luck": "53",
-            "agility": "99"
+            "agility": "102"
         }
     },
     "CardanoFightClub6271": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "35",
             "constitution": "43",
@@ -49717,7 +49717,7 @@
     },
     "CardanoFightClub6272": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41300",
         "attributes": {
             "strength": "35",
             "constitution": "47",
@@ -49730,7 +49730,7 @@
     },
     "CardanoFightClub6273": {
         "level": "20",
-        "experience": "27600",
+        "experience": "41400",
         "attributes": {
             "strength": "37",
             "constitution": "31",
@@ -49743,7 +49743,7 @@
     },
     "CardanoFightClub6274": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27200",
         "attributes": {
             "strength": "32",
             "constitution": "39",
@@ -49756,7 +49756,7 @@
     },
     "CardanoFightClub6275": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27600",
         "attributes": {
             "strength": "36",
             "constitution": "43",
@@ -50198,7 +50198,7 @@
     },
     "CardanoFightClub6347": {
         "level": "20",
-        "experience": "27600",
+        "experience": "41400",
         "attributes": {
             "strength": "43",
             "constitution": "41",
@@ -50211,7 +50211,7 @@
     },
     "CardanoFightClub6348": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27100",
         "attributes": {
             "strength": "38",
             "constitution": "43",
@@ -50224,7 +50224,7 @@
     },
     "CardanoFightClub6349": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27300",
         "attributes": {
             "strength": "48",
             "constitution": "35",
@@ -50237,7 +50237,7 @@
     },
     "CardanoFightClub6350": {
         "level": "20",
-        "experience": "27100",
+        "experience": "40900",
         "attributes": {
             "strength": "36",
             "constitution": "46",
@@ -50250,7 +50250,7 @@
     },
     "CardanoFightClub6351": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "45",
             "constitution": "42",
@@ -50263,7 +50263,7 @@
     },
     "CardanoFightClub6352": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41300",
         "attributes": {
             "strength": "39",
             "constitution": "41",
@@ -50276,7 +50276,7 @@
     },
     "CardanoFightClub6353": {
         "level": "20",
-        "experience": "27400",
+        "experience": "41200",
         "attributes": {
             "strength": "43",
             "constitution": "33",
@@ -50289,7 +50289,7 @@
     },
     "CardanoFightClub6354": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "43",
             "constitution": "35",
@@ -50302,7 +50302,7 @@
     },
     "CardanoFightClub6355": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "33",
             "constitution": "36",
@@ -50315,7 +50315,7 @@
     },
     "CardanoFightClub6356": {
         "level": "20",
-        "experience": "0",
+        "experience": "13500",
         "attributes": {
             "strength": "44",
             "constitution": "50",
@@ -50484,7 +50484,7 @@
     },
     "CardanoFightClub6429": {
         "level": "20",
-        "experience": "13700",
+        "experience": "27500",
         "attributes": {
             "strength": "39",
             "constitution": "38",
@@ -52850,7 +52850,7 @@
     },
     "CardanoFightClub6936": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27600",
         "attributes": {
             "strength": "33",
             "constitution": "45",
@@ -56633,7 +56633,7 @@
     },
     "CardanoFightClub7696": {
         "level": "20",
-        "experience": "27200",
+        "experience": "41000",
         "attributes": {
             "strength": "41",
             "constitution": "33",
@@ -56659,7 +56659,7 @@
     },
     "CardanoFightClub7699": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "42",
             "constitution": "51",
@@ -61404,7 +61404,7 @@
     },
     "CardanoFightClub8722": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "48",
             "constitution": "47",
@@ -62392,7 +62392,7 @@
     },
     "CardanoFightClub8860": {
         "level": "20",
-        "experience": "27500",
+        "experience": "41300",
         "attributes": {
             "strength": "38",
             "constitution": "49",
@@ -63367,7 +63367,7 @@
     },
     "CardanoFightClub9049": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "47",
             "constitution": "28",
@@ -64030,7 +64030,7 @@
     },
     "CardanoFightClub9161": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41500",
         "attributes": {
             "strength": "32",
             "constitution": "36",
@@ -64069,7 +64069,7 @@
     },
     "CardanoFightClub9164": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "35",
             "constitution": "30",
@@ -64094,16 +64094,16 @@
         }
     },
     "CardanoFightClub9166": {
-        "level": "61",
-        "experience": "2774",
+        "level": "62",
+        "experience": "0",
         "attributes": {
-            "strength": "111",
-            "constitution": "102",
-            "intelligence": "112",
-            "charisma": "101",
-            "perception": "96",
-            "luck": "72",
-            "agility": "114"
+            "strength": "113",
+            "constitution": "104",
+            "intelligence": "113",
+            "charisma": "102",
+            "perception": "98",
+            "luck": "73",
+            "agility": "115"
         }
     },
     "CardanoFightClub9167": {
@@ -64121,7 +64121,7 @@
     },
     "CardanoFightClub9168": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "46",
             "constitution": "47",
@@ -64134,7 +64134,7 @@
     },
     "CardanoFightClub9169": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "27",
             "constitution": "47",
@@ -64160,7 +64160,7 @@
     },
     "CardanoFightClub9172": {
         "level": "20",
-        "experience": "27100",
+        "experience": "40900",
         "attributes": {
             "strength": "38",
             "constitution": "36",
@@ -64758,7 +64758,7 @@
     },
     "CardanoFightClub9329": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27700",
         "attributes": {
             "strength": "44",
             "constitution": "30",
@@ -66370,7 +66370,7 @@
     },
     "CardanoFightClub9683": {
         "level": "48",
-        "experience": "0",
+        "experience": "115200",
         "attributes": {
             "strength": "87",
             "constitution": "75",
@@ -66838,7 +66838,7 @@
     },
     "CardanoFightClub9739": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "41",
             "constitution": "30",
@@ -67995,7 +67995,7 @@
     },
     "CardanoFightClub9889": {
         "level": "20",
-        "experience": "13900",
+        "experience": "27400",
         "attributes": {
             "strength": "32",
             "constitution": "32",
@@ -68644,21 +68644,21 @@
         }
     },
     "CardanoFightClub9962": {
-        "level": "62",
-        "experience": "2774",
+        "level": "63",
+        "experience": "0",
         "attributes": {
-            "strength": "115",
-            "constitution": "96",
-            "intelligence": "103",
-            "charisma": "103",
-            "perception": "102",
-            "luck": "65",
+            "strength": "116",
+            "constitution": "98",
+            "intelligence": "105",
+            "charisma": "105",
+            "perception": "104",
+            "luck": "66",
             "agility": "121"
         }
     },
     "CardanoFightClub9963": {
         "level": "20",
-        "experience": "27800",
+        "experience": "41600",
         "attributes": {
             "strength": "35",
             "constitution": "47",
@@ -68671,7 +68671,7 @@
     },
     "CardanoFightClub9964": {
         "level": "20",
-        "experience": "27600",
+        "experience": "41400",
         "attributes": {
             "strength": "43",
             "constitution": "43",
@@ -68879,7 +68879,7 @@
     },
     "CardanoFightClub9992": {
         "level": "20",
-        "experience": "13500",
+        "experience": "26800",
         "attributes": {
             "strength": "32",
             "constitution": "40",
