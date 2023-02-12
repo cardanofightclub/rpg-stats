@@ -14442,7 +14442,7 @@
     },
     "CardanoFightClubLegendary4117": {
         "level": "35",
-        "experience": "0",
+        "experience": "37300",
         "attributes": {
             "strength": "39",
             "constitution": "50",
@@ -14455,7 +14455,7 @@
     },
     "CardanoFightClubLegendary4118": {
         "level": "35",
-        "experience": "0",
+        "experience": "37300",
         "attributes": {
             "strength": "56",
             "constitution": "42",
@@ -14468,7 +14468,7 @@
     },
     "CardanoFightClubLegendary4119": {
         "level": "35",
-        "experience": "0",
+        "experience": "37300",
         "attributes": {
             "strength": "48",
             "constitution": "46",
@@ -14507,7 +14507,7 @@
     },
     "CardanoFightClubLegendary4144": {
         "level": "35",
-        "experience": "0",
+        "experience": "37300",
         "attributes": {
             "strength": "41",
             "constitution": "58",
@@ -14520,7 +14520,7 @@
     },
     "CardanoFightClubLegendary4145": {
         "level": "35",
-        "experience": "0",
+        "experience": "37300",
         "attributes": {
             "strength": "42",
             "constitution": "50",
@@ -14533,7 +14533,7 @@
     },
     "CardanoFightClubLegendary4147": {
         "level": "35",
-        "experience": "0",
+        "experience": "37300",
         "attributes": {
             "strength": "47",
             "constitution": "37",
@@ -14637,7 +14637,7 @@
     },
     "CardanoFightClubLegendary4161": {
         "level": "35",
-        "experience": "0",
+        "experience": "37300",
         "attributes": {
             "strength": "39",
             "constitution": "38",
@@ -14650,7 +14650,7 @@
     },
     "CardanoFightClubLegendary4164": {
         "level": "35",
-        "experience": "0",
+        "experience": "37300",
         "attributes": {
             "strength": "42",
             "constitution": "50",
@@ -14663,7 +14663,7 @@
     },
     "CardanoFightClubLegendary4165": {
         "level": "35",
-        "experience": "0",
+        "experience": "37300",
         "attributes": {
             "strength": "48",
             "constitution": "59",
@@ -15287,7 +15287,7 @@
     },
     "CardanoFightClubLegendary4730": {
         "level": "35",
-        "experience": "0",
+        "experience": "37300",
         "attributes": {
             "strength": "49",
             "constitution": "41",
@@ -15300,7 +15300,7 @@
     },
     "CardanoFightClubLegendary4731": {
         "level": "35",
-        "experience": "0",
+        "experience": "37300",
         "attributes": {
             "strength": "58",
             "constitution": "42",
@@ -15313,7 +15313,7 @@
     },
     "CardanoFightClubLegendary4732": {
         "level": "35",
-        "experience": "0",
+        "experience": "37300",
         "attributes": {
             "strength": "57",
             "constitution": "49",
@@ -15326,7 +15326,7 @@
     },
     "CardanoFightClubLegendary4734": {
         "level": "35",
-        "experience": "0",
+        "experience": "37300",
         "attributes": {
             "strength": "40",
             "constitution": "39",
@@ -15521,7 +15521,7 @@
     },
     "CardanoFightClubLegendary5270": {
         "level": "35",
-        "experience": "0",
+        "experience": "37300",
         "attributes": {
             "strength": "56",
             "constitution": "42",
@@ -15534,7 +15534,7 @@
     },
     "CardanoFightClubLegendary5271": {
         "level": "35",
-        "experience": "0",
+        "experience": "37300",
         "attributes": {
             "strength": "48",
             "constitution": "42",
@@ -34220,15 +34220,15 @@
         }
     },
     "CardanoFightClub3393": {
-        "level": "17",
-        "experience": "37300",
+        "level": "18",
+        "experience": "0",
         "attributes": {
-            "strength": "43",
-            "constitution": "31",
-            "intelligence": "43",
-            "charisma": "34",
-            "perception": "38",
-            "luck": "15",
+            "strength": "45",
+            "constitution": "33",
+            "intelligence": "44",
+            "charisma": "36",
+            "perception": "39",
+            "luck": "17",
             "agility": "38"
         }
     },
