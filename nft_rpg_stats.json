@@ -10891,6 +10891,19 @@
             "agility": "13"
         }
     },
+    "CardanoFightClubLegendary484": {
+        "level": "10",
+        "experience": "0",
+        "attributes": {
+            "strength": "20",
+            "constitution": "20",
+            "intelligence": "15",
+            "charisma": "18",
+            "perception": "13",
+            "luck": "29",
+            "agility": "29"
+        }
+    },
     "CardanoFightClubLegendary493": {
         "level": "10",
         "experience": "620",
@@ -70686,7 +70699,7 @@
     },
     "CardanoFightClub9965": {
         "level": "37",
-        "experience": "11418",
+        "experience": "11947",
         "attributes": {
             "strength": "63",
             "constitution": "78",
