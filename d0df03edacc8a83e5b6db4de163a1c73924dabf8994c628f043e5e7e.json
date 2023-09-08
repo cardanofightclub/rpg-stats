@@ -13,10 +13,10 @@
     "policy": "820182018282051a0471d9108200581c7ab203fddebc34d533060d41e6dbd5b433a823e64baa0261d7d2514b",
     "description": {
         "sequenceNumber": 0,
-        "value": "sha256 checksum of nft_rpg_stats.json - d697a636a73cd70ea8d75df1aaf1e486d593f5e10dfbac7ca06be8da017da9e3 validated and published at 2023-09-08 06:30:01 UTC",
+        "value": "sha256 checksum of nft_rpg_stats.json - d697a636a73cd70ea8d75df1aaf1e486d593f5e10dfbac7ca06be8da017da9e3 validated and published at 2023-09-08 07:00:02 UTC",
         "signatures": [
             {
-                "signature": "d58fff4a55b380d7bf8b13eed5d5a03814ed9b2dae798bdd91777e48be03aec5b53f242afa07963a983d770c6beee159dcf7af4a782e20c9f8cebfac7a71900c",
+                "signature": "3a9505e0afa5c27e4f4b9710c5faa37d8afa5c4f8c410f8fe9d7588c76d223fbe29c7b20437eb37a3c4382c405fa2530a921bd3c862674aa02e30591ab139004",
                 "publicKey": "a747da5eafe750a11d8239d5287adffd394c15481fd517283be220334e0a2d68"
             }
         ]
